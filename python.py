@@ -1,2 +1,1 @@
-print('Odeio POO')
-print('Projeto desgraçado')
+print('Eu sou maluco')
