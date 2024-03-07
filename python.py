@@ -1,0 +1,1 @@
+print("Cavalo Manco")
