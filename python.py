@@ -1,1 +1,2 @@
-print("Cavalo Manco")
+print('Odeio POO')
+print('Projeto desgraçado')
