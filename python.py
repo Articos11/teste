@@ -1,1 +1,1 @@
-print("Cavalo Manco")
+print('Eu sou maluco')
